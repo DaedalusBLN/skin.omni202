@@ -5,7 +5,7 @@
   name="Omni202"
   provider-name="braz, DaedalusBLN">
 	<requires>
-		<import addon="xbmc.gui" version="5.14.0"/>
+		<import addon="xbmc.gui" version="5.15.0"/>
 		<import addon="resource.images.studios.white" version="0.0.4"/>
 		<import addon="script.skinshortcuts" version="0.6.6"/>
 		<import addon="script.toolbox" version="1.0.0"/>
